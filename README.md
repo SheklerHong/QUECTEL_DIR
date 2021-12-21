@@ -1,0 +1,1 @@
+# QUECTEL_DIR
